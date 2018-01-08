@@ -48,3 +48,14 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+# User
+*~
+cw6-fst/binary.fst
+cw6-fst/text.fst
+*.dot
+*.ps
+*.far
+cw6-thrax/Makefile
+cw8/*.lex.yy.c
+cw8/*.out
