@@ -1,0 +1,5 @@
+F=PI*R*R
+#define PI 3.14
+F=PI*R*R
+#define R 100
+F=PI*R*R
