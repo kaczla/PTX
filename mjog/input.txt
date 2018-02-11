@@ -1,0 +1,18 @@
+//
+// Przykładowy graf
+//
+# hexagon dashed
+{
+1 box bold blue
+2 circle
+3 box red
+4 dotted 'ala'
+5 text 'tekst'
+1
+}
+{
+1 -> 2 bold
+2 -> 3 'line'
+3 -> 1 orange
+4 -> 1 dotted 'new\nline'
+}
